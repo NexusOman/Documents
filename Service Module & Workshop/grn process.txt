@@ -1,0 +1,20 @@
+
+Filter
+MR 1 - Nati -100
+MR 2 - Daleel -70
+
+
+PO - Filter - 170
+
+
+GRN - Filter - 50
+
+
+Send 30 to Nati
+Send 20 to Daleel
+
+
+Natin Store - LPO - MR - 30
+Daleel Store - LPO - MR - 20
+
+
