@@ -1,7 +1,9 @@
 
-Filter
-MR 1 - Nati -100
-MR 2 - Daleel -70
+GRN Process:
+Take example for an items called FILTER
+
+PR 1(based on MR) - Nati -100
+PR 2(based on MR) - Daleel -70
 
 
 PO - Filter - 170
